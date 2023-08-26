@@ -13,10 +13,10 @@
 //          - a brief description of what the code does.
 //
 //      2. Opening and closing curly braces on their own separate line and
-//      vertically lined up;
+//      vertically lined up.
 //
 //      3. Four spaces of indentation at each indentation level (set your
-//      editor to replace the tab character with four spaces);
+//      editor to replace the tab character with four spaces).
 //
 //      4. One vertical line of whitespace, then one or two line comments
 //      before each logical idea in your code. 
